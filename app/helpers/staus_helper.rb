@@ -1,0 +1,2 @@
+module StausHelper
+end
