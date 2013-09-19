@@ -16,7 +16,11 @@ end
 test "that /register opens register page" do 
 	get '/register'
 	assert_response :success
+end
 
+test "get user profile page"
+  get '/shaun'
+  assert_response :success
 end
 
 end

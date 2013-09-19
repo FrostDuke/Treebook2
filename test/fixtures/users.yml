@@ -3,3 +3,9 @@ shaun:
   last_name: "Jackson"
   email: "shaun@shaun.com"
   profile_name: "Frosty"
+
+Timmy:
+   first_name: "Timmy"
+   last_name: "Fun"
+   email: "tim@tim.com"
+   profile_name: "Timbob"
